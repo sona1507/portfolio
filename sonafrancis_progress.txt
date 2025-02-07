@@ -3,3 +3,9 @@ day 1: 06-02-2025
 learn
 html tags:<header></header>,<nav></nav>,<a></a>,<section></section>
 css navigation bar,css display,css font,css color,css padding etc..
+
+day 2:07-02-2003
+
+learn
+html tags:<span></span>,<div></div>,<p></p>,<button></button>........
+css 
