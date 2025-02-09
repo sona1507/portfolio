@@ -86,38 +86,3 @@ img{
     position: relative; 
     top: -100px;
 }
-.btn-box{
-    width: 600px;
-    display:flex;
-    flex-direction: row;
-    gap:2em;
-    align-items: center;
-    justify-content: center;
-    margin-left: -500px;
-}
-.btn-1{
-    padding:15px 28px;
-    background-color:black;
-    color:white;
-    border: 2px solid transparent;
-    border-radius: 8px;
-    font-size: 18px;
-    letter-spacing: 1px;
-    font-weight: 600;
-    cursor: pointer;
-    word-spacing: 1px;
-}
-.btn-2{
-    padding:15px 28px;
-    background-color:rgba(6, 167, 36, 0.699);
-    color:white;
-    border: 2px solid transparent;
-    border-radius: 8px;
-    font-size: 18px;
-    letter-spacing: 1px;
-    font-weight: 600;
-    cursor: pointer;
-}
-
-
-
